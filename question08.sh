@@ -1,4 +1,4 @@
 mkdir dir2
 mv *.txt dir2/
-git add *
+git add -A
 git commit -m "Q8"
